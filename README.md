@@ -21,7 +21,7 @@ some things the data made clear that i sort of already knew:
 - non-english cinema rates significantly higher across the board: japanese (4.39, n=27), french (4.33, n=15), cantonese (5.0, n=5)
 - background watches (films i had on while doing something else, tagged accordingly)(don't ask why the actual tag is brother nefarious. it's a long story) average 2.43 stars vs 3.91 for everything else, which is a 1.5 star gap that meaningfully affects model quality if not handled
 - october is horror and art house month, every year, without fail. make some noise for hooptober!
-- criterion collection watches average 4.30; my most reliable signal for intentional, high-quality viewing. this makes sense. that subscription is like 40% of the reason i put so many hours on my timesheet during college. 
+- criterion collection watches average 4.30. this makes sense. that subscription is like 40% of the reason i put so many hours on my timesheet during college. 
 
 ## how it's built
 
